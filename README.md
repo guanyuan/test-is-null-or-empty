@@ -1,4 +1,5 @@
 # is-null-or-empty
+[![Build Status](https://travis-ci.org/guanyuan/test-is-null-or-empty.svg?branch=master)](https://travis-ci.org/guanyuan/test-is-null-or-empty)
 
 A Node.js package that checks whether a given string is null or empty. A basic package for an npm publish tutorial.
 
